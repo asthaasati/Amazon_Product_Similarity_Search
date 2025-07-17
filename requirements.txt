@@ -1,0 +1,12 @@
+langchain
+langchain-experimental
+langchain-community
+pandas
+numpy
+tabulate
+streamlit
+sentence-transformers
+faiss-cpu
+matplotlib
+python-dotenv
+openai  
